@@ -22,7 +22,7 @@
 }
 .nav-link{
     padding:0.5rem 1rem;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Rowdies', cursive;
     font-size: 20px;
     color: white !important;
     text-decoration: none;
@@ -52,7 +52,7 @@
     margin-top: 80px;
     margin-left:30px ;
     
-    font-family: 'Inter', sans-serif;
+    font-family: 'Rowdies', cursive;
     font-size: 60px;
     color: black;
 }
@@ -97,7 +97,7 @@
     margin: 8%;
 }
 .about_me{
-    font-family: 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif ;
     font-size: 20px;
 }
 #link-style{
@@ -177,13 +177,13 @@
 .form-contenitor{
     display: flex;
     flex-direction: column;
-    margin-left: 30%;
+    margin-left: 20%;
 }
 .form-changes{
-    width: 60% !important;
+    width: 75% !important;
 }
 .form-changes-big{
-    width: 60% !important;
+    width: 75% !important;
     height: 200px!important;
     margin-top: 15px;
 }
@@ -252,7 +252,9 @@
 
 
 
-
+#title-font{
+    font-family: 'Rowdies', cursive;
+}
 
 
 
@@ -341,7 +343,7 @@ html, body {
      @media only screen and (min-width: 401px) and (max-width: 960px){
         /** first section **/
         h1{
-            margin-left: 0;
+            margin-left: 20px !important;
             font-size: 50px !important;
         }
         .carousel-words_font{
