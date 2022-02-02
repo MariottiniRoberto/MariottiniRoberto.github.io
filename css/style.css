@@ -265,6 +265,7 @@
 
 body{
     background-color: #ddd9d9 !important;
+    width: 100vh;
 }
 
 
@@ -314,7 +315,7 @@ body{
         font-size: 100%;
     }
     /** third section **/
-
+    
 
 
 
